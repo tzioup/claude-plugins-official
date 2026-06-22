@@ -2678,7 +2678,7 @@
         "source": "url",
         "url": "https://github.com/sumup/sumup-skills.git",
         "path": "providers/claude/plugin",
-        "sha": "b69ff6f5afcd5934af70529e529c0dd8abe46cbe"
+        "sha": "122051850dc2957851562eb11168ef91b1521040"
       },
       "homepage": "https://www.sumup.com/"
     },
