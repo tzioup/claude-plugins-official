@@ -1498,7 +1498,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/claude-observability-plugin.git",
-        "sha": "597af67d6c6b369f3e55db6cfa2ebe444f1af46c"
+        "sha": "ef1b6c1e3bc56329945029b7cbd0dc254940417e"
       },
       "homepage": "https://langfuse.com/integrations/other/claude-code"
     },
